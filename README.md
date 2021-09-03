@@ -25,7 +25,7 @@ In this dataset, we are using the data from the Posper to analyse it and trying 
 > Afterwards, I introduce relation between numircal  varibals ,I found that there was a strong relationship
 bewteen estmited effective yield and boorower annul rate. The relationship is approximately linear .
 
-Then we looks into realtion between one numirc(EstimatedEffectiveYield) and one catgorical(Rating)
+Then we looks into realtion between one numirc(EstimatedEffectiveYield)and one catgorical(Rating)
 - Data with Rating HR(highest ranknig) most of its data lies between 20 & 30 % with peak on 30% of EstimatedEffectiveYield.
 - Date with Rating AA(lowest ranknig) most of its data lies between 0 & 10 % with peak around 5% of EstimatedEffectiveYield
 - In General Higher rating led to higher Estamited effective Yeild on loans .
